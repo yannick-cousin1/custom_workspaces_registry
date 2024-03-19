@@ -1,7 +1,7 @@
 {
   "description": "Windows 11",
   "name": "dockurr/windows",
-  "image_src": "",
+  "image_src": "icon.png",
   "friendly_name": "W11",
   "architecture": [
     "amd64"
