@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Custom Kasm Registry',
+    description: 'Custom Kasm Registry.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://yannick-cousin1.github.io/custom_workspaces_registry/',
+    contactUrl: 'https://github.com/yannick-cousin1/custom_workspaces_registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/custom_workspaces_registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
